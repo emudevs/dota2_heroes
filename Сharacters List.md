@@ -1,113 +1,113 @@
 # Dota2 Сharacters List
-* Monkey King ```hero monkeyking```
-* Abaddon ```hero abaddon```
-* Alchemist ```hero alchemist```
-* Ancient Apparition ```hero ancientapparition```
-* Anti-Mage ```hero anti-mage```
-* Arc Warden ```hero arcwarden```
-* Axe ```hero axe```
-* Bane ```hero bane```
-* Batrider ```hero batrider```
-* Beastmaster ```hero beastmaster```
-* Bloodseeker ```hero bloodseeker```
-* Bounty Hunter ```hero bountyhunter```
-* Brewmaster ```hero brewmaster```
-* Bristleback ```hero bristleback```
-* Broodmother ```hero broodmother```
-* Centaur Warrunner ```hero centaurwarrunner```
-* Chaos Knight ```hero chaosknight```
-* Chen ```hero chen```
-* Clinkz ```hero clinkz```
-* Clockwerk ```hero clockwerk```
-* Crystal Maiden ```hero crystalmaiden```
-* Dark Seer ```hero darkseer```
-* Dazzle ```hero dazzle```
-* Death Prophet ```hero deathprophet```
-* Disruptor ```hero disruptor```
-* Doom ```hero doom```
-* Dragon Knight ```hero dragonknight```
-* Drow Ranger ```hero drowranger```
-* Earth Spirit ```hero earthspirit```
-* Earthshaker ```hero earthshaker```
-* Elder Titan ```hero eldertitan```
-* Ember Spirit ```hero emberspirit```
-* Enchantress ```hero enchantress```
-* Enigma ```hero enigma```
-* Faceless Void ```hero facelessvoid```
-* Gyrocopter ```hero gyrocopter```
-* Huskar ```hero huskar```
-* Invoker ```hero invoker```
-* Io ```hero io```
-* Jakiro ```hero jakiro```
-* Juggernaut ```hero juggernaut```
-* Keeper of the Light ```hero keeperofthelight```
-* Kunkka ```hero kunkka```
-* Legion Commander ```hero legioncommander```
-* Leshrac ```hero leshrac```
-* Lich ```hero lich```
-* Lifestealer ```hero lifestealer```
-* Lina ```hero lina```
-* Lion ```hero lion```
-* Lone Druid ```hero lonedruid```
-* Luna ```hero luna```
-* Lycan ```hero lycan```
-* Magnus ```hero magnus```
-* Medusa ```hero medusa```
-* Meepo ```hero meepo```
-* Mirana ```hero mirana```
-* Morphling ```hero morphling```
-* Naga Siren ```hero nagasiren```
-* Natures Prophet ```hero naturesprophet```
-* Necrophos ```hero necrophos```
-* Night Stalker ```hero nightstalker```
-* Nyx Assassin ```hero nyxassassin```
-* Ogre Magi ```hero ogremagi```
-* Omniknight ```hero omniknight```
-* Oracle ```hero oracle```
-* Outworld Devourer ```hero outworlddevourer```
-* Phantom Assassin ```hero phantomassassin```
-* Phantom Lancer ```hero phantomlancer```
-* Phoenix ```hero phoenix```
-* Puck ```hero puck```
-* Pudge ```hero pudge```
-* Pugna ```hero pugna```
-* Queen of Pain ```hero queenofpain```
-* Razor ```hero razor```
-* Riki ```hero riki```
-* Rubick ```hero rubick```
-* Sand King ```hero sandking```
-* Shadow Demon ```hero shadowdemon```
-* Shadow Fiend ```hero shadowfiend```
-* Shadow Shaman ```hero shadowshaman```
-* Silencer ```hero silencer```
-* Skywrath Mage ```hero skywrathmage```
-* Slardar ```hero slardar```
-* Slark ```hero slark```
-* Sniper ```hero sniper```
-* Spectre ```hero spectre```
-* Spirit Breaker ```hero spiritbreaker```
-* Storm Spirit ```hero stormspirit```
-* Sven ```hero sven```
-* Techies ```hero techies```
-* Templar Assassin ```hero templarassassin```
-* Terrorblade ```hero terrorblade```
-* Tidehunter ```hero tidehunter```
-* Timbersaw ```hero timbersaw```
-* Tinker ```hero tinker```
-* Tiny ```hero tiny```
-* Treant Protector ```hero treantprotector```
-* Troll Warlord ```hero trollwarlord```
-* Tusk ```hero tusk```
-* Undying ```hero undying```
-* Ursa ```hero ursa```
-* Vengeful Spirit ```hero vengefulspirit```
-* Venomancer ```hero venomancer```
-* Viper ```hero viper```
-* Visage ```hero visage```
-* Warlock ```hero warlock```
-* Weaver ```hero weaver```
-* Windranger ```hero windranger```
-* Winter Wyvern ```hero winterwyvern```
-* Witch Doctor ```hero witchdoctor```
-* Wraith King ```hero wraithking```
-* Zeus ```hero zeus```
+* Monkey King ```hero monkeyking``` or ```hero Monkey King```
+* Abaddon ```hero abaddon``` or ```hero Abaddon```
+* Alchemist ```hero alchemist``` or ```hero Alchemist```
+* Ancient Apparition ```hero ancientapparition``` or ```hero Ancient Apparition```
+* Anti-Mage ```hero anti-mage``` or ```hero Anti-Mage```
+* Arc Warden ```hero arcwarden``` or ```hero Arc Warden```
+* Axe ```hero axe``` or ```hero Axe```
+* Bane ```hero bane``` or ```hero Bane```
+* Batrider ```hero batrider``` or ```hero Batrider```
+* Beastmaster ```hero beastmaster``` or ```hero Beastmaster```
+* Bloodseeker ```hero bloodseeker``` or ```hero Bloodseeker```
+* Bounty Hunter ```hero bountyhunter``` or ```hero Bounty Hunter```
+* Brewmaster ```hero brewmaster``` or ```hero Brewmaster```
+* Bristleback ```hero bristleback``` or ```hero Bristleback```
+* Broodmother ```hero broodmother``` or ```hero Broodmother```
+* Centaur Warrunner ```hero centaurwarrunner``` or ```hero Centaur Warrunner```
+* Chaos Knight ```hero chaosknight``` or ```hero Chaos Knight```
+* Chen ```hero chen``` or ```hero Chen```
+* Clinkz ```hero clinkz``` or ```hero Clinkz```
+* Clockwerk ```hero clockwerk``` or ```hero Clockwerk```
+* Crystal Maiden ```hero crystalmaiden``` or ```hero Crystal Maiden```
+* Dark Seer ```hero darkseer``` or ```hero Dark Seer```
+* Dazzle ```hero dazzle``` or ```hero Dazzle```
+* Death Prophet ```hero deathprophet``` or ```hero Death Prophet```
+* Disruptor ```hero disruptor``` or ```hero Disruptor```
+* Doom ```hero doom``` or ```hero Doom```
+* Dragon Knight ```hero dragonknight``` or ```hero Dragon Knight```
+* Drow Ranger ```hero drowranger``` or ```hero Drow Ranger```
+* Earth Spirit ```hero earthspirit``` or ```hero Earth Spirit```
+* Earthshaker ```hero earthshaker``` or ```hero Earthshaker```
+* Elder Titan ```hero eldertitan``` or ```hero Elder Titan```
+* Ember Spirit ```hero emberspirit``` or ```hero Ember Spirit```
+* Enchantress ```hero enchantress``` or ```hero Enchantress```
+* Enigma ```hero enigma``` or ```hero Enigma```
+* Faceless Void ```hero facelessvoid``` or ```hero Faceless Void```
+* Gyrocopter ```hero gyrocopter``` or ```hero Gyrocopter```
+* Huskar ```hero huskar``` or ```hero Huskar```
+* Invoker ```hero invoker``` or ```hero Invoker```
+* Io ```hero io``` or ```hero Io```
+* Jakiro ```hero jakiro``` or ```hero Jakiro```
+* Juggernaut ```hero juggernaut``` or ```hero Juggernaut```
+* Keeper of the Light ```hero keeperofthelight``` or ```hero Keeper of the Light```
+* Kunkka ```hero kunkka``` or ```hero Kunkka```
+* Legion Commander ```hero legioncommander``` or ```hero Legion Commander```
+* Leshrac ```hero leshrac``` or ```hero Leshrac```
+* Lich ```hero lich``` or ```hero Lich```
+* Lifestealer ```hero lifestealer``` or ```hero Lifestealer```
+* Lina ```hero lina``` or ```hero Lina```
+* Lion ```hero lion``` or ```hero Lion```
+* Lone Druid ```hero lonedruid``` or ```hero Lone Druid```
+* Luna ```hero luna``` or ```hero Luna```
+* Lycan ```hero lycan``` or ```hero Lycan```
+* Magnus ```hero magnus``` or ```hero Magnus```
+* Medusa ```hero medusa``` or ```hero Medusa```
+* Meepo ```hero meepo``` or ```hero Meepo```
+* Mirana ```hero mirana``` or ```hero Mirana```
+* Morphling ```hero morphling``` or ```hero Morphling```
+* Naga Siren ```hero nagasiren``` or ```hero Naga Siren```
+* Natures Prophet ```hero naturesprophet``` or ```hero Natures Prophet```
+* Necrophos ```hero necrophos``` or ```hero Necrophos```
+* Night Stalker ```hero nightstalker``` or ```hero Night Stalker```
+* Nyx Assassin ```hero nyxassassin``` or ```hero Nyx Assassin```
+* Ogre Magi ```hero ogremagi``` or ```hero Ogre Magi```
+* Omniknight ```hero omniknight``` or ```hero Omniknight```
+* Oracle ```hero oracle``` or ```hero Oracle```
+* Outworld Devourer ```hero outworlddevourer``` or ```hero Outworld Devourer```
+* Phantom Assassin ```hero phantomassassin``` or ```hero Phantom Assassin```
+* Phantom Lancer ```hero phantomlancer``` or ```hero Phantom Lancer```
+* Phoenix ```hero phoenix``` or ```hero Phoenix```
+* Puck ```hero puck``` or ```hero Puck```
+* Pudge ```hero pudge``` or ```hero Pudge```
+* Pugna ```hero pugna``` or ```hero Pugna```
+* Queen of Pain ```hero queenofpain``` or ```hero Queen of Pain```
+* Razor ```hero razor``` or ```hero Razor```
+* Riki ```hero riki``` or ```hero Riki```
+* Rubick ```hero rubick``` or ```hero Rubick```
+* Sand King ```hero sandking``` or ```hero Sand King```
+* Shadow Demon ```hero shadowdemon``` or ```hero Shadow Demon```
+* Shadow Fiend ```hero shadowfiend``` or ```hero Shadow Fiend```
+* Shadow Shaman ```hero shadowshaman``` or ```hero Shadow Shaman```
+* Silencer ```hero silencer``` or ```hero Silencer```
+* Skywrath Mage ```hero skywrathmage``` or ```hero Skywrath Mage```
+* Slardar ```hero slardar``` or ```hero Slardar```
+* Slark ```hero slark``` or ```hero Slark```
+* Sniper ```hero sniper``` or ```hero Sniper```
+* Spectre ```hero spectre``` or ```hero Spectre```
+* Spirit Breaker ```hero spiritbreaker``` or ```hero Spirit Breaker```
+* Storm Spirit ```hero stormspirit``` or ```hero Storm Spirit```
+* Sven ```hero sven``` or ```hero Sven```
+* Techies ```hero techies``` or ```hero Techies```
+* Templar Assassin ```hero templarassassin``` or ```hero Templar Assassin```
+* Terrorblade ```hero terrorblade``` or ```hero Terrorblade```
+* Tidehunter ```hero tidehunter``` or ```hero Tidehunter```
+* Timbersaw ```hero timbersaw``` or ```hero Timbersaw```
+* Tinker ```hero tinker``` or ```hero Tinker```
+* Tiny ```hero tiny``` or ```hero Tiny```
+* Treant Protector ```hero treantprotector``` or ```hero Treant Protector```
+* Troll Warlord ```hero trollwarlord``` or ```hero Troll Warlord```
+* Tusk ```hero tusk``` or ```hero Tusk```
+* Undying ```hero undying``` or ```hero Undying```
+* Ursa ```hero ursa``` or ```hero Ursa```
+* Vengeful Spirit ```hero vengefulspirit``` or ```hero Vengeful Spirit```
+* Venomancer ```hero venomancer``` or ```hero Venomancer```
+* Viper ```hero viper``` or ```hero Viper```
+* Visage ```hero visage``` or ```hero Visage```
+* Warlock ```hero warlock``` or ```hero Warlock```
+* Weaver ```hero weaver``` or ```hero Weaver```
+* Windranger ```hero windranger``` or ```hero Windranger```
+* Winter Wyvern ```hero winterwyvern``` or ```hero Winter Wyvern```
+* Witch Doctor ```hero witchdoctor``` or ```hero Witch Doctor```
+* Wraith King ```hero wraithking``` or ```hero Wraith King```
+* Zeus ```hero zeus``` or ```hero Zeus```
