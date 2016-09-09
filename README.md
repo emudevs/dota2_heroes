@@ -10,3 +10,8 @@
 ```
 <a href="#" class="hero abaddon" title="Abaddon"></a>
 ```
+
+### o automatically specify the type of character, add inside the container object class **type**
+```
+<a href="#" class="hero abaddon" title="Abaddon"><i class="type"></i></a>
+```
