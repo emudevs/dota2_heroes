@@ -15,3 +15,6 @@
 ```
 <a href="#" class="hero abaddon" title="Abaddon"><i class="type"></i></a>
 ```
+
+DEMO:
+https://mrslink.github.io/dota2_heroes/demo.html
